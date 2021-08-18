@@ -5,7 +5,7 @@ const Body = Matter.Body;
 const Constraint = Matter.Constraint;
 
 var roof;
-//Create multiple bobs, mulitple ropes varibale here
+//cambio1
 
 
 function setup() {
@@ -33,12 +33,12 @@ function draw() {
 
   rect(roof.position.x,roof.position.y,230,20);
 
-  //call display() to show ropes here
+  //cambio2
 
   
-  //create ellipse shape for multiple bobs here
+  //cambio3
 
  
 }
 
-//Write keyPressed function and apply force on pressing up_arrow key on the first bob.
+//cambio4
