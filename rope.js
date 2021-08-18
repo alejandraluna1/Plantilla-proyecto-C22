@@ -2,11 +2,11 @@ class rope{
 	constructor()
 	{
 
-	//create rope constraint here
+	//crear la restricción para rope (cuerda)
 
 	}
 
 
-    //create display() here 
+    //crear display()
 
 }
